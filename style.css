@@ -12,6 +12,8 @@ body{
     padding: 4em 1em;
     background-image: linear-gradient(to top left, black, #514E4E);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 h1,
