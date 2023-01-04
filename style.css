@@ -10,6 +10,8 @@ body{
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     line-height: 1.5;
     padding: 4em 1em;
+
+    height: 100%;
     background-image: linear-gradient(to top left, black, #514E4E);
     background-repeat: no-repeat;
     background-position: center;
