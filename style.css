@@ -1,34 +1,34 @@
-body {
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+html{
+  height: 100%;
+}
+
+body{
     margin: 0 auto;
     max-width: 25em;
-    font-family: "Helvetica";
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     line-height: 1.5;
     padding: 4em 1em;
-    background-color: ;
-    color: #555;
+    background-image: linear-gradient(to top left, black, #514E4E);
+    background-repeat: no-repeat;
 }
 
 h1,
 strong {
   margin-top: 1em;
   padding-top: 1em;
-  color: #333;
+  color: #E7E0E0;
 }
 
 h2 {
-    color: #333;
+    color: #E0D7D7;
 }
 
-code,
-pre {
-  background: #eee;
+p {
+  color: #DDD3D3
 }
 
-code {
-  padding: 2px 4px;
-  vertical-align: text-bottom;
-}
-
-pre {
-  padding: 1em;
+a {
+  color: #e81c4f;
 }
